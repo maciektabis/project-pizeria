@@ -490,7 +490,7 @@
 				totalPrice: thisCart.totalPrice,
 				subtotalPrice: thisCart.subtotalPrice,
 				totalNumber: thisCart.totalNumber,
-				deliveryFee: thisCart.dom.deliveryFee,
+				deliveryFee: thisCart.deliveryFee,
 				products: [],
 			};
 
